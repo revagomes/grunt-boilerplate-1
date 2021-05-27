@@ -12,7 +12,7 @@
     "npm": "1.1.x"
   },
   "dependencies": {
-    "grunt-cli": "0.1.9",
+    "grunt-cli": "0.1.13",
     "grunt": "~0.4.1",
     "grunt-yui-compressor": "0.3.0",
     "grunt-htmlcompressor": "~0.1.8",
