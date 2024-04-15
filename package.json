@@ -12,11 +12,11 @@
     "npm": "1.1.x"
   },
   "dependencies": {
-    "grunt-cli": "0.1.9",
-    "grunt": "~0.4.1",
+    "grunt-cli": "1.0.0",
+    "grunt": "~1.0.3",
     "grunt-yui-compressor": "0.3.0",
     "grunt-htmlcompressor": "~0.1.8",
-    "grunt-rsync": "~0.1.1",
+    "grunt-rsync": "~3.0.0",
     "grunt-contrib-less": "~0.6.3"
   }
 }
